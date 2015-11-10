@@ -1,0 +1,28 @@
+{
+  "name": "hubot-australia",
+  "version": "0.0.1",
+  "description": "Hubot script to convert English to Australian.",
+  "main": "index.coffee",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shaundon/hubot-australia.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "australia"
+  ],
+  "dependencies": {
+    "cron": "~1.0.4",
+    "underscore": "~1.8.3"
+  },
+  "author": "Shaun Donnelly <shaundonnelly@gmail.com>",
+  "licence": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaundon/hubot-australia/issues"
+  },
+  "homepage": "https://github.com/shaundon/hubot-australia",
+  "devDependencies": {},
+  "license": "MIT"
+}
