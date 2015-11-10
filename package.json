@@ -1,6 +1,6 @@
 {
   "name": "hubot-australia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hubot script to convert English to Australian.",
   "main": "index.coffee",
   "scripts": {},
@@ -13,10 +13,7 @@
     "hubot-scripts",
     "australia"
   ],
-  "dependencies": {
-    "cron": "~1.0.4",
-    "underscore": "~1.8.3"
-  },
+  "dependencies": {},
   "author": "Shaun Donnelly <shaundonnelly@gmail.com>",
   "licence": "MIT",
   "bugs": {
