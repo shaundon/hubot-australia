@@ -1,6 +1,6 @@
 {
   "name": "hubot-australia",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hubot script to convert English to Australian.",
   "main": "index.coffee",
   "scripts": {},

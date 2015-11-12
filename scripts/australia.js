@@ -48,7 +48,7 @@ module.exports = function(robot) {
     var last = stringToFlip.length - 1;
     var result = new Array(stringToFlip.length);
 
-    for (var i=last; i<=0; --i) {
+    for (var i=last; i>=0; --i) {
       var c = stringToFlip.charAt(i);
       var r = flipTable[c];
       result[last-i] = (r != undefined ? r : c);
